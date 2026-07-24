@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/entur/spectral-cli-bin/compare/v1.1.0...v1.1.1) (2026-07-24)
+
+
+### Bug Fixes
+
+* Add version name to asset ([ba6550c](https://github.com/entur/spectral-cli-bin/commit/ba6550c9d7e284fa9fb050aa0add0d69205157ce))
+
 ## [1.1.0](https://github.com/entur/spectral-cli-bin/compare/v1.0.2...v1.1.0) (2026-07-24)
 
 
