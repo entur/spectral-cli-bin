@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/entur/spectral-cli-bin/compare/v1.0.0...v1.0.1) (2026-07-24)
+
+
+### Bug Fixes
+
+* Set release_type to node ([5454b44](https://github.com/entur/spectral-cli-bin/commit/5454b44329fc02d6b874f0bc38bfb2d1f0dcea12))
+
 ## 1.0.0 (2026-07-24)
 
 
