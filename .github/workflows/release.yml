@@ -31,7 +31,7 @@ jobs:
     needs: create-executable
     uses: entur/gha-meta/.github/workflows/release.yml@v1
 
-  attach-release-asset
+  attach-release-asset:
     needs: release
     runs-on: ubuntu-latest
     permissions:
