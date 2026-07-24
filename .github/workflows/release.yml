@@ -23,8 +23,9 @@ jobs:
       - name: Build executable
         run: npm run build
       - uses: actions/upload-artifact@v7
-        name: spectral-cli-bin-linux-x64
-        path: bin/spectral-cli-bin-linux-x64
+        with:
+          name: spectral-cli-bin-linux-x64
+          path: bin/spectral-cli-bin-linux-x64
         
 
   release:
@@ -40,8 +41,9 @@ jobs:
       RELEASE_TAG: ${{ needs.release.outputs.tag_name }}
     steps:
       - uses: actions/download-artifact@v7
-        name: spectral-cli-bin-linux-x64
-        path: bin/spectral-cli-bin-linux-x64
+        with:
+          name: spectral-cli-bin-linux-x64
+          path: bin/spectral-cli-bin-linux-x64
       - name: attach executable to release
         run: |
           gh release upload $RELEASE_TAG bin/spectral-cli-bin-linux-x64
