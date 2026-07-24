@@ -34,7 +34,7 @@ jobs:
       - name: attach executable to release
         shell: bash
         run: |
-          filename_with_version=bin/spectral-cli-bin_${RELEASE_TAG}_linux-64
+          filename_with_version="bin/spectral-cli-bin_${RELEASE_TAG}_linux-64"
           mv bin/spectral-cli-bin-linux-x64 bin/${filename_with_version}
           gh release upload $RELEASE_TAG $filename_with_version
 
