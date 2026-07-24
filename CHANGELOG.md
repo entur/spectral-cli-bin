@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/entur/spectral-cli-bin/compare/v1.1.3...v1.1.4) (2026-07-24)
+
+
+### Bug Fixes
+
+* Use correct path ([447b1e2](https://github.com/entur/spectral-cli-bin/commit/447b1e2a8a7c78e6e0808069ea9f41b4abb9060c))
+
 ## [1.1.3](https://github.com/entur/spectral-cli-bin/compare/v1.1.2...v1.1.3) (2026-07-24)
 
 
