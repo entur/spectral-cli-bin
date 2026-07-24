@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.6](https://github.com/entur/spectral-cli-bin/compare/v1.1.5...v1.1.6) (2026-07-24)
+
+
+### Bug Fixes
+
+* Fix resolving of spectral-rulesets version with npm ([eb4f859](https://github.com/entur/spectral-cli-bin/commit/eb4f859dbfbc99349e87d831eebe63aab1750317))
+
 ## [1.1.5](https://github.com/entur/spectral-cli-bin/compare/v1.1.4...v1.1.5) (2026-07-24)
 
 
