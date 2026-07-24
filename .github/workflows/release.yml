@@ -21,6 +21,7 @@ jobs:
       contents: write
     env:
       RELEASE_TAG: ${{ needs.release.outputs.tag_name }}
+      GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-node@v7
