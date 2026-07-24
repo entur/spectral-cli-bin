@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/entur/spectral-cli-bin/compare/v1.1.2...v1.1.3) (2026-07-24)
+
+
+### Bug Fixes
+
+* Use correct filename ([d5f98ec](https://github.com/entur/spectral-cli-bin/commit/d5f98ec4e199bc7210bcfeb608cd15ac6fab338d))
+
 ## [1.1.2](https://github.com/entur/spectral-cli-bin/compare/v1.1.1...v1.1.2) (2026-07-24)
 
 
