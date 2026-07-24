@@ -11,7 +11,7 @@ jobs:
   release:
     uses: entur/gha-meta/.github/workflows/release.yml@v1
     with:
-      release-type: node
+      release_type: node
 
   create-executable:
     needs: release
