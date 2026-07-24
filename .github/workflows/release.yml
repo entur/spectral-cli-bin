@@ -34,6 +34,7 @@ jobs:
 
   attach-release-asset:
     needs: release
+    if: ${{ needs.release.outputs.release_created }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
