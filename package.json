@@ -4,7 +4,7 @@
   "bin": "node_modules/@stoplight/spectral-cli/dist/index.js",
   "type": "module",
   "scripts": {
-    "build": "pkg . --targets node24-linux-x64 -o bin/spectral-cli-bin-linux-x64"
+    "build": "pkg . --targets node24-linux-x64 -o bin/spectral-cli-bin-linux-x64 -C Zstd"
   },
   "dependencies": {
     "@stoplight/spectral-cli": "6.16.1",
