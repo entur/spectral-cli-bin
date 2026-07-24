@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.5](https://github.com/entur/spectral-cli-bin/compare/v1.1.4...v1.1.5) (2026-07-24)
+
+
+### Bug Fixes
+
+* Add missing x ([be93ed1](https://github.com/entur/spectral-cli-bin/commit/be93ed193315d3cf9e091c4cfc3a4073d36e1682))
+
 ## [1.1.4](https://github.com/entur/spectral-cli-bin/compare/v1.1.3...v1.1.4) (2026-07-24)
 
 
