@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/entur/spectral-cli-bin/compare/v1.0.1...v1.0.2) (2026-07-24)
+
+
+### Bug Fixes
+
+* Declare GH_TOKEN ([eba2e89](https://github.com/entur/spectral-cli-bin/commit/eba2e89f29ab63f46d9cb2f90285f49e82ef635a))
+
 ## [1.0.1](https://github.com/entur/spectral-cli-bin/compare/v1.0.0...v1.0.1) (2026-07-24)
 
 
