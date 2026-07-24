@@ -1,0 +1,17 @@
+{
+  "name": "spectral-cli-bin",
+  "version": "1.0.0",
+  "bin": "node_modules/@stoplight/spectral-cli/dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "pkg . --targets node24-linux-x64 -o bin/spectral-cli-bin-linux-x64"
+  },
+  "dependencies": {
+    "@stoplight/spectral-cli": "6.16.1",
+    "@yao-pkg/pkg": "6.21.0"
+  },
+  "resolutions": {
+    "@stoplight/spectral-rulesets": "1.22.2"
+  },
+  "packageManager": "yarn@4.17.1"
+}
