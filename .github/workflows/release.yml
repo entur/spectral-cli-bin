@@ -35,6 +35,6 @@ jobs:
         shell: bash
         run: |
           filename_with_version="bin/spectral-cli-bin_${RELEASE_TAG}_linux-64"
-          mv bin/spectral-cli-bin_linux-x64 bin/${filename_with_version}
+          mv bin/spectral-cli-bin_linux-x64 ${filename_with_version}
           gh release upload $RELEASE_TAG $filename_with_version
 
