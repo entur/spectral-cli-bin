@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/entur/spectral-cli-bin/compare/v1.1.1...v1.1.2) (2026-07-24)
+
+
+### Bug Fixes
+
+* Fix syntax ([97d2d8f](https://github.com/entur/spectral-cli-bin/commit/97d2d8fd476527e30ebe5cbf1518391ea565dd4c))
+
 ## [1.1.1](https://github.com/entur/spectral-cli-bin/compare/v1.1.0...v1.1.1) (2026-07-24)
 
 
