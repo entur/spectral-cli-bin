@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/entur/spectral-cli-bin/compare/v1.0.2...v1.1.0) (2026-07-24)
+
+
+### Features
+
+* Compress with Zstd ([7c7a9e0](https://github.com/entur/spectral-cli-bin/commit/7c7a9e0f3bbb646a73f8edc32ac4561de3e5f524))
+
 ## [1.0.2](https://github.com/entur/spectral-cli-bin/compare/v1.0.1...v1.0.2) (2026-07-24)
 
 
