@@ -10,8 +10,7 @@
     "@stoplight/spectral-cli": "6.16.1",
     "@yao-pkg/pkg": "6.21.0"
   },
-  "resolutions": {
+  "overrides": {
     "@stoplight/spectral-rulesets": "1.22.2"
-  },
-  "packageManager": "yarn@4.17.1"
+  }
 }
