@@ -6,7 +6,11 @@ on:
 
 permissions:
   contents: read
+  pull-requests: read
 jobs:
+  verify-pr:
+    name: Verify PR
+    uses: entur/gha-meta/.github/workflows/verify-pr.yml@v1
   create-executable:
     runs-on: ubuntu-latest
     steps:
