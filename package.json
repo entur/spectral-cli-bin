@@ -7,7 +7,7 @@
     "build": "pkg . --targets node24-linux-x64 -o bin/spectral-cli-bin_linux-x64 -C Zstd"
   },
   "dependencies": {
-    "@stoplight/spectral-cli": "6.16.1",
+    "@stoplight/spectral-cli": "6.16.2",
     "@yao-pkg/pkg": "6.21.0"
   },
   "overrides": {
