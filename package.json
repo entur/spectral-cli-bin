@@ -1,6 +1,6 @@
 {
   "name": "spectral-cli-bin",
-  "version": "1.1.6",
+  "version": "1.2.0",
   "bin": "node_modules/@stoplight/spectral-cli/dist/index.js",
   "type": "module",
   "scripts": {

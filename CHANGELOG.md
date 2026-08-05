@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.0](https://github.com/entur/spectral-cli-bin/compare/v1.1.6...v1.2.0) (2026-08-05)
+
+
+### Features
+
+* **deps:** bump @stoplight/spectral-cli in the minor-updates group ([#17](https://github.com/entur/spectral-cli-bin/issues/17)) ([9b59752](https://github.com/entur/spectral-cli-bin/commit/9b5975263f63f91f5cf25f01b487d1e9ca59cdeb))
+* **deps:** bump brace-expansion from 1.1.16 to 1.1.18 ([#18](https://github.com/entur/spectral-cli-bin/issues/18)) ([28de771](https://github.com/entur/spectral-cli-bin/commit/28de7716c9164f05bf1210a39db5d7bdec05f5bc))
+* **deps:** bump fast-uri from 3.1.4 to 3.1.5 ([#19](https://github.com/entur/spectral-cli-bin/issues/19)) ([4be27a9](https://github.com/entur/spectral-cli-bin/commit/4be27a9ab531fb4923ed53b70e56786289be681c))
+
 ## [1.1.6](https://github.com/entur/spectral-cli-bin/compare/v1.1.5...v1.1.6) (2026-07-24)
 
 
