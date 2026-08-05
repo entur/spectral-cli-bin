@@ -28,6 +28,7 @@ updates:
       timezone: "Europe/Oslo"
     commit-message:
       prefix: feat
+      include: "scope"
     cooldown:
       default-days: 5
       semver-major-days: 7
