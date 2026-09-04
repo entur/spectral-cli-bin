@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/entur/spectral-cli-bin/compare/v1.2.0...v1.3.0) (2026-09-04)
+
+
+### Features
+
+* **deps:** bump fast-uri from 3.1.5 to 3.1.7 ([#23](https://github.com/entur/spectral-cli-bin/issues/23)) ([34542d6](https://github.com/entur/spectral-cli-bin/commit/34542d6574f0614ba227ceb4ae2c36ddfa71a236))
+* **deps:** bump the minor-updates group across 1 directory with 2 updates ([#22](https://github.com/entur/spectral-cli-bin/issues/22)) ([f7a0b2a](https://github.com/entur/spectral-cli-bin/commit/f7a0b2afe8df88a644c283350366c3ea48e26d51))
+
 ## [1.2.0](https://github.com/entur/spectral-cli-bin/compare/v1.1.6...v1.2.0) (2026-08-05)
 
 
