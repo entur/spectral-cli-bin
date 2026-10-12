@@ -44,4 +44,5 @@ updates:
           - "minor"
           - "patch"
         exclude-patterns:
+          - "@stoplight/spectral-cli"
           - "@entur/*"
