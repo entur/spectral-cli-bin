@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@stoplight/spectral-cli": "6.17.0",
-    "@yao-pkg/pkg": "6.23.0"
+    "@yao-pkg/pkg": "6.24.0"
   },
   "overrides": {
     "@stoplight/spectral-rulesets": "1.22.2"
