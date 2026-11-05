@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.5.0](https://github.com/entur/spectral-cli-bin/compare/v1.4.0...v1.5.0) (2026-11-05)
+
+
+### Features
+
+* **deps:** bump @yao-pkg/pkg ([#32](https://github.com/entur/spectral-cli-bin/issues/32)) ([2fef563](https://github.com/entur/spectral-cli-bin/commit/2fef563db3fd378820351a3d801419f3296ea2fd))
+* **deps:** bump fast-uri from 3.1.8 to 3.1.9 ([#30](https://github.com/entur/spectral-cli-bin/issues/30)) ([2b09e9d](https://github.com/entur/spectral-cli-bin/commit/2b09e9d4ace99962ae4dc9656e9007afb601471d))
+* **deps:** bump undici from 7.30.0 to 7.30.1 ([#31](https://github.com/entur/spectral-cli-bin/issues/31)) ([fb6d1a6](https://github.com/entur/spectral-cli-bin/commit/fb6d1a60e83bdcc123e5a53f76797631c01920ad))
+* **deps:** bump undici from 7.30.1 to 7.30.2 ([#34](https://github.com/entur/spectral-cli-bin/issues/34)) ([f909569](https://github.com/entur/spectral-cli-bin/commit/f9095690e6078114e41c2a4f035eaffa1f396aa7))
+
 ## [1.4.0](https://github.com/entur/spectral-cli-bin/compare/v1.3.0...v1.4.0) (2026-10-12)
 
 
