@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.6.0](https://github.com/entur/spectral-cli-bin/compare/v1.5.0...v1.6.0) (2026-11-16)
+
+
+### Features
+
+* **deps:** bump @stoplight/spectral-cli from 6.17.0 to 6.17.1 ([#37](https://github.com/entur/spectral-cli-bin/issues/37)) ([a0fb10b](https://github.com/entur/spectral-cli-bin/commit/a0fb10b4afbbffe876f7ee28188d43dc2284d9b7))
+* **deps:** bump @yao-pkg/pkg ([#36](https://github.com/entur/spectral-cli-bin/issues/36)) ([1932ecd](https://github.com/entur/spectral-cli-bin/commit/1932ecd3b6cf053427ac2423f549935eff4e5fe0))
+
 ## [1.5.0](https://github.com/entur/spectral-cli-bin/compare/v1.4.0...v1.5.0) (2026-11-05)
 
 
